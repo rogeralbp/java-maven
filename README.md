@@ -7,4 +7,4 @@ In this repo there are 4 exercises in Java using Maven
 3 - Asking by input console 3 values to print the min and max value of them
 4 - Control Customer System using OOP and Forms
 
-T
+
