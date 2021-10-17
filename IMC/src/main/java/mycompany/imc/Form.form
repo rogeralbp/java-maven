@@ -84,7 +84,7 @@
   <SubComponents>
     <Component class="javax.swing.JButton" name="btnGo">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Button"/>
+        <Property name="text" type="java.lang.String" value="Process"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnGoActionPerformed"/>

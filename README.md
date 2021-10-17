@@ -4,10 +4,20 @@ In this repo there are 4 exercises in Java using Maven
 
 
 ## Calculator Of IMC using Forms
+Start Page
+![image](https://user-images.githubusercontent.com/31899798/137635706-a6d451cf-c901-4803-95b9-0f8579a2892b.png)
+
+Showing the IMC of JUAN
+![image](https://user-images.githubusercontent.com/31899798/137635723-b275ee3f-3066-4b91-96b7-8c81f5443ad5.png)
+
+IMC Reference
+![image](https://user-images.githubusercontent.com/31899798/137635761-96fddde0-cbcc-460c-81c6-05726736ee62.png)
 
 ## Loop that print by console all the Not pair numbers beetwen 1 - 100
+Start Page
 
 ## Asking by input console 3 values to print the min and max value of them
+Start Page
 
 ## Control Customer System using OOP and Forms
 
